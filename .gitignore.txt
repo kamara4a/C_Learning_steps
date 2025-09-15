@@ -1,0 +1,15 @@
+# Ignore build files
+*.exe
+*.o
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore VSCode settings (optional if you don’t want to share them)
+.vscode/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
